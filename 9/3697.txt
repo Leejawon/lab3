@@ -1,0 +1,7 @@
+[Wed Nov 21 22:51:35 2018]p1:/s
+[Wed Nov 21 22:51:41 2018]P2:hola
+[Wed Nov 21 22:51:44 2018]p1:hi
+[Wed Nov 21 22:51:51 2018]P2:babo
+[Wed Nov 21 22:51:56 2018]p1:nono
+[Wed Nov 21 22:52:01 2018]P2:i'm jawon
+[Wed Nov 21 22:52:14 2018]p1:me too jawon
